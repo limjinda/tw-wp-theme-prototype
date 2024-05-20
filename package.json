@@ -1,0 +1,27 @@
+{
+  "name": "tw-wp-theme-prototype",
+  "version": "1.0.0",
+  "description": "WordPress with TailwindCSS Theme Prototype",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 18.20.2"
+  },
+  "author": "JindaTheme",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.0",
+    "gulp-exec": "^5.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5"
+  }
+}

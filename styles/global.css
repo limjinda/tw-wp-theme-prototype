@@ -1,0 +1,16 @@
+/*!
+  Theme Name: tw-wp-theme-prototype
+  Theme URI: https://www.jindatheme.com
+  Author: JindaTheme
+  Author URI: https://www.jindatheme.com
+  Description: Premium responsive TailWind WordPress theme
+  Version: 2.0
+  License: GNU General Public License v2 or later
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
+  Tags: grid-layout, custom-menu, featured-images, blog
+  Text Domain: jindatheme
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
